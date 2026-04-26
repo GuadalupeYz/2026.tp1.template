@@ -6,10 +6,10 @@
 ### Datos del Alumno
 
 | Campo | Respuesta |
-| :--- | :--- |
-| **Nombre** | |
-| **Apellido** | |
-| **Legajo** | |
+| :--- |:----------|
+| **Nombre** | Guadalupe |
+| **Apellido** | Yañez     |
+| **Legajo** | 63462     |
 
 > **Fecha de entrega:** 28 de Abril de 2026
 
